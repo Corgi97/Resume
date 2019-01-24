@@ -1,33 +1,19 @@
-# 个人简历
+个人简历
+========
 姓名|出生日期|身高|体重|民族|
 ---|---|---|---|---
 李世迪|1998.4.20|195cm|105kg|汉
+
 ## 联系方式
 - **联系电话** 18645927799
 - **电子邮箱** 469351531@qq.com
+
 ## 教育背景
+- **2015-2019**
 
-# Header 1
-## Header 2
-### Header 3
+- **天津理工大学**  
+计算机科学与工程学院  
+计算机科学与技术专业
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Corgi97/resume/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## 技能特长
+学过**java，C++，SQL**等编程语言
