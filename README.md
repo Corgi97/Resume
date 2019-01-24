@@ -1,15 +1,11 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/Corgi97/resume/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
+# 个人简历
+姓名|出生日期|身高|体重|民族|
+---|---|---|---|---
+李世迪|1998.4.20|195cm|105kg|汉
+## 联系方式
+- **联系电话** 18645927799
+- **电子邮箱** 469351531@qq.com
+## 教育背景
 
 # Header 1
 ## Header 2
