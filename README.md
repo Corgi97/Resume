@@ -1,6 +1,6 @@
 <div align=center>
  
-![image](https://github.com/Corgi97/resume/blob/master/images/微信图片_20190217125541.jpg)
+![image](https://github.com/Corgi97/resume/blob/master/images/微信图片_20190217125541.jpg)</div>
 
 个人简历
 ========
