@@ -1,4 +1,6 @@
-![image](https://github.com/Corgi97/resume/blob/master/images/微信图片_20190217125541.jpg)<div align=center>
+<div align=center>
+ 
+![image](https://github.com/Corgi97/resume/blob/master/images/微信图片_20190217125541.jpg)
 
 个人简历
 ========
