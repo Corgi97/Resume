@@ -1,3 +1,5 @@
+![image](https://github.com/Corgi97/resume/blob/master/images/微信图片_20190217125541.jpg)<div align=center>
+
 个人简历
 ========
 姓名|出生日期|身高|体重|民族|
