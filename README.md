@@ -29,3 +29,10 @@
 >>>>> C++
 
 ## 自我评价
+
+
+<div align=center>
+ 
+<img src="https://github.com/Corgi97/resume/blob/master/images/erweima.jpg" width="150" height="150" alt="图片加载失败时，显示这段字"/>
+
+扫一扫上面的二维码图片，加我微信</div>
