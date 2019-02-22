@@ -1,11 +1,11 @@
 <div align=center>
- <img src="https://github.com/Corgi97/resume/raw/master/images/微信图片_20190217125541.jpg" alt="图片加载失败时，显示这段字"/></div>
+<img src="https://github.com/Corgi97/resume/raw/master/images/微信图片_20190217125541.jpg" alt="图片加载失败时，显示这段字"/></div>
 
 个人简历
 ========
 
 ## 基本信息
-姓名|出生日期|身高|体重|民族|
+姓名|出生日期|身高|体重|民族
 ---|---|---|---|---
 李世迪|1998.4.20|195cm|101kg|汉
 ## 兴趣爱好
