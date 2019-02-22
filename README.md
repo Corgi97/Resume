@@ -36,4 +36,4 @@
 <div align=center>
 <img src="https://github.com/Corgi97/resume/raw/master/images/erweima.jpg" width="150" height="150" alt="图片加载失败时，显示这段字"/>
 
-扫描二维码图片，加我微信</div>
+扫描图中二维码，加我微信</div>
