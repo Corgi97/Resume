@@ -1,6 +1,6 @@
 <div align=center>
  
-![image](https://github.com/Corgi97/resume/blob/master/images/微信图片_20190217125541.jpg)</div>
+![image](https://github.com/Corgi97/resume/raw/master/images/微信图片_20190217125541.jpg)</div>
 
 个人简历
 ========
@@ -36,6 +36,6 @@
 
 <div align=center>
  
-<img src="https://github.com/Corgi97/resume/blob/master/images/erweima.jpg" width="150" height="150" alt="图片加载失败时，显示这段字"/>
+<img src="https://github.com/Corgi97/resume/raw/master/images/erweima.jpg" width="150" height="150" alt="图片加载失败时，显示这段字"/>
 
 扫一扫上面的二维码图片，加我微信</div>
