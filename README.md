@@ -1,4 +1,5 @@
-<div align=center> <img src="https://github.com/Corgi97/resume/raw/master/images/微信图片_20190217125541.jpg" alt="图片加载失败时，显示这段字"/></div>
+<div style='width:400px; margin:0px auto'>
+<img src="https://github.com/Corgi97/resume/raw/master/images/微信图片_20190217125541.jpg" alt="图片加载失败时，显示这段字"/></div>
 
 个人简历
 ========
@@ -32,6 +33,7 @@
 ## 自我评价
 本人热心、自信、上进心强，工作认真负责，具有良好的团队合作精神与较好的个人亲和力。刚走出校园步入社会，工作经验方面有所欠缺，但我有信心能较好地完成自己的任务和工作，用心地去履行自己的职责。希望能给我个机会在工作过程中学到更多的知识，积累更多的经验。
 
-<div align=center> <img src="https://github.com/Corgi97/resume/raw/master/images/erweima.jpg" width="150" height="150" alt="图片加载失败时，显示这段字"/>
+<div align=center> 
+<img src="https://github.com/Corgi97/resume/raw/master/images/erweima.jpg" width="150" height="150" alt="图片加载失败时，显示这段字"/>
 
 扫一扫上面的二维码图片，加我微信</div>
